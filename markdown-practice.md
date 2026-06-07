@@ -14,9 +14,9 @@ Things I want to learn:
 - AI development
 Steps to make a commit in Git:
 1. Make changes to your file
-2. Run 'git add' .
-3. Run  git commit -m "your message"
-4. Run 'git push'
+2. Run `git add` .
+3. Run `git commit -m "your message"`
+4. Run `git push`
 ## Exercise 5
 | Tool        | Purpose          | Link                                                   |
 |-------------|------------------|--------------------------------------------------------|
