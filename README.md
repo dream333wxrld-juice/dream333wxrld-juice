@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm [Gilbert Mungai]
 
-<!--
-**dream333wxrld-juice/dream333wxrld-juice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning ["Programming at We can academy"].
+- I'm interested in ["AI and  web development "].
+- I'm looking to collaborate on ["beginner-friendly projects"].
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- ["Java scripts"]
+- ["Python"]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- [JARVIS](link) — A voice-activated AI assistant built in Python using the Anthropic API for intelligence, pyttsx3 for text-to-speech, and SpeechRecognition for voice input — basically a personal Iron Man-style AI you can talk to.
+
+## How to Reach Me
+- Email: [dream333wxrld@gmail.com]
+- LinkedIn: [N/A]
