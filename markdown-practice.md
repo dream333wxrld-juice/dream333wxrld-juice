@@ -1,13 +1,13 @@
 # Markdown
-## Exercise 1
+## Exercise 1 — Headings
 ## My Learning Goals
 ### This Semester 
-## Exercise 2
+## Exercise 2  — Text Formatting
 I am learning **programming** and it is *exciting* to work with `APIs`.
-## Exercise 3
+## Exercise 3 — Links
 [My GitHub Profile](https://github.com/dream333wxrld-juice)
 [YouTube](https://www.youtube.com)
-## Exercise 4 
+## Exercise 4 — Lists
 Things I want to learn:
 - Python
 - JavaScript
@@ -17,26 +17,27 @@ Steps to make a commit in Git:
 2. Run `git add` .
 3. Run `git commit -m "your message"`
 4. Run `git push`
-## Exercise 5
+## Exercise 5 — Table
 | Tool        | Purpose          | Link                                                   |
 |-------------|------------------|--------------------------------------------------------|
 | GitHub      | Version control  | [github.com](https://github.com)                       |
 | VS Code     | Code editor      | [code.visualstudio.com](https://code.visualstudio.com) |
-## Exercise 6 
+## Exercise 6 — Task List
 - [x] Create a GitHub account
 - [x] Create a README
 - [x] Learn Markdown
 - [ ] Deploy my first website
-## Exercise 7
+## Exercise 7 — Code Block
 ```python
 import anthropic
 
 client = anthropic.Anthropic()
 print("JARVIS is online.")
 ```
-## Exercise 8
+## Exercise 8 — Blockquote
+
 > Love is patient.
-## Bonus 
+## Bonus — About Me
 ## Hi, I'm **Gilbert** 
 I'm a *student* at **We Can Academy** learning `programming`.
 Things I'm working on:
