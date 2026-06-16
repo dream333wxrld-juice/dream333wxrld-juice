@@ -1,13 +1,16 @@
-# Markdown
 ## Exercise 1 — Headings
+
 ## My Learning Goals
 ### This Semester 
 ## Exercise 2  — Text Formatting
+
 I am learning **programming** and it is *exciting* to work with `APIs`.
 ## Exercise 3 — Links
+
 [My GitHub Profile](https://github.com/dream333wxrld-juice)
 [YouTube](https://www.youtube.com)
 ## Exercise 4 — Lists
+
 Things I want to learn:
 - Python
 - JavaScript
@@ -18,6 +21,7 @@ Steps to make a commit in Git:
 3. Run `git commit -m "your message"`
 4. Run `git push`
 ## Exercise 5 — Table
+
 | Tool        | Purpose          | Link                                                   |
 |-------------|------------------|--------------------------------------------------------|
 | GitHub      | Version control  | [github.com](https://github.com)                       |
@@ -28,6 +32,7 @@ Steps to make a commit in Git:
 - [x] Learn Markdown
 - [ ] Deploy my first website
 ## Exercise 7 — Code Block
+
 ```python
 import anthropic
 
